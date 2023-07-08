@@ -52,3 +52,14 @@
 8. Component Composition -- Composing 2 components into one another
 9. React.Fragment ==>> JSX must have only one root element. If we have multiple root element then we can wrap them inside the React.Fragment, it creates empty tag
 10. <React.Fragment></React.Fragment> instead of this we can also use empty tag <></>
+
+# Episode 4
+
+1. Building Food ordering app.
+2. Destructuring our app into components.
+3. Creating components
+4. Looping components
+5. Props
+6. key
+7. Config Driven UI
+8. index as key (anti pattern)
