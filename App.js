@@ -1,51 +1,35 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-/**
- *  <div id="parent">
-        <div id="child1">
-            <h1>Child 1</h1>
-        </div>
-        <div id="child2">
-            <h1>Child 2</h1>
-        </div>
+// JSX ==>> Babel converts it to React.createElement ==>> React Element ==>> Javascript Object ⇒> When we render this to the DOM it becomes HTML Element. 
+const heading = (
+    <div>
+        <h1 className='head'>
+            Hello React using JSX
+        </h1>
+        <p>Test</p>
     </div>
- */
-
-const parent = React.createElement(
-    'div',
-    {
-        id: 'parent'
-    },
-    [
-        React.createElement(
-            'div',
-            { id: 'child1' },
-            React.createElement(
-                'h1',
-                { id: '' },
-                'Child 1'
-            )
-        ),
-        React.createElement(
-            'div',
-            { id: 'child2' },
-            React.createElement(
-                'h1',
-                { id: '' },
-                'Child 2'
-            )
-        )
-    ]
 );
 
-const heading = React.createElement("h1", { id: "heading" }, "Hello React !!!");
-
-// React.createElement ==>> React Element ==>> Javascript Object
 console.log(heading);
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
 
-// root.render basically get the Javascript Object and convert it into the heading tag and put in on DOM
-// root.render replaces everything inside root with whatever we are passing
-root.render(heading);
+// React Component
+// Everything in React is component - header, footer, button, searchbar
+// There are 2 types of components in React 
+// Class based component - old way of writing component  
+// Functional component - new way of writing component - It is function which returns some piece of JSX code. 
+
+const Title = () => <h1>Hello React</h1>
+
+const HeadingComponent = () => (
+    <div>
+        <Title />
+        <h1>Hello React functional component</h1>
+    </div>
+);
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+
+root.render(<HeadingComponent />)
+
