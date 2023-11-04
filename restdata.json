@@ -1,0 +1,1493 @@
+{
+    "restaurants": [
+        {
+            "info": {
+                "id": "10892",
+                "name": "Pizza Hut",
+                "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                "locality": "Vani Vilas Road",
+                "areaName": "Basavanagudi",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Pizzas"
+                ],
+                "avgRating": 3.8,
+                "feeDetails": {
+                    "restaurantId": "10892",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3200
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3200
+                },
+                "parentId": "721",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "26 mins",
+                    "lastMileTravelString": "2.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-05 04:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/pizza-hut-vani-vilas-road-basavanagudi-bangalore-10892",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "424558",
+                "name": "La Pino'z Pizza",
+                "cloudinaryImageId": "mocil3npmwpcdcfaxql1",
+                "locality": "Gandhi Bazaar Main Road",
+                "areaName": "Basavanagudi",
+                "costForTwo": "₹220 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Pastas",
+                    "Italian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "424558",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3200
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3200
+                },
+                "parentId": "4961",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 2.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "24 mins",
+                    "lastMileTravelString": "2.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-05 00:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-gandhi-bazaar-main-road-basavanagudi-bangalore-424558",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "329938",
+                "name": "Churmur Chaat Co",
+                "cloudinaryImageId": "womemvkfstu7zwrfulwe",
+                "locality": "Rama Nagar",
+                "areaName": "Central Bangalore",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Chaat",
+                    "Snacks",
+                    "Healthy Food",
+                    "North Indian"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "329938",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3800
+                },
+                "parentId": "63178",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "33 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 20:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/churmur-chaat-co-rama-nagar-central-bangalore-bangalore-329938",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "426730",
+                "name": "Theobroma",
+                "cloudinaryImageId": "b033728dcb0101ceb19bff0e1e1f6474",
+                "locality": "Vittal Malya Road",
+                "areaName": "Ashok Nagar",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Bakery",
+                    "Beverages"
+                ],
+                "avgRating": 4.6,
+                "feeDetails": {
+                    "restaurantId": "426730",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 5100
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 5100
+                },
+                "parentId": "1040",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 4.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "31 mins",
+                    "lastMileTravelString": "4.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 23:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "ABOVE ₹159",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/theobroma-vittal-malya-road-ashok-nagar-bangalore-426730",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "445605",
+                "name": "Chaayos Chai+Snacks=Relax",
+                "cloudinaryImageId": "cace805a6ba74137571d0f7ac92302b1",
+                "locality": "Gopalapura",
+                "areaName": "Magadi Road",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Beverages",
+                    "Chaat",
+                    "Desserts",
+                    "Home Food",
+                    "Italian",
+                    "Maharashtrian",
+                    "Snacks",
+                    "Street Food",
+                    "Sweets"
+                ],
+                "avgRating": 3.9,
+                "feeDetails": {
+                    "restaurantId": "445605",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 4400
+                },
+                "parentId": "281782",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 4.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "34 mins",
+                    "lastMileTravelString": "4.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/chaayos-chai-snacks-relax-gopalapura-magadi-road-bangalore-445605",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "281469",
+                "name": "Lavonne",
+                "cloudinaryImageId": "emlehbuwgsmryxhwzhvq",
+                "locality": "St. Marks Road",
+                "areaName": "St. Marks Road",
+                "costForTwo": "₹750 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "feeDetails": {
+                    "restaurantId": "281469",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 6400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 6400
+                },
+                "parentId": "10530",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "33 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:40:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ],
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/lavonne-st-marks-road-bangalore-281469",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "56428",
+                "name": "Puliyogare Point",
+                "cloudinaryImageId": "wet9zrjusmdtkk16jlrz",
+                "locality": "N.R Colony",
+                "areaName": "Basavanagudi",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "South Indian"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "56428",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3200
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3200
+                },
+                "parentId": "8409",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "21 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/puliyogare-point-n-r-colony-basavanagudi-bangalore-56428",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "20637",
+                "name": "Szechuan Dragon",
+                "cloudinaryImageId": "o1hvh788liketqhmbes2",
+                "locality": "HanumanthaNagar",
+                "areaName": "HanumanthaNagar",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Thai"
+                ],
+                "avgRating": 4.1,
+                "feeDetails": {
+                    "restaurantId": "20637",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3800
+                },
+                "parentId": "7539",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "28 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/szechuan-dragon-hanumanthanagar-bangalore-20637",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "391899",
+                "name": "Leon's - Burgers & Wings (Leon Grill)",
+                "cloudinaryImageId": "mtrttksm6csrmbgs6dw4",
+                "locality": "3rd Stage",
+                "areaName": "Banashankari",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "American",
+                    "Snacks",
+                    "Turkish",
+                    "Portuguese",
+                    "Continental"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {
+                    "restaurantId": "391899",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 6800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 6800
+                },
+                "parentId": "371281",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 6.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "33 mins",
+                    "lastMileTravelString": "6.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-05 04:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/leons-burgers-and-wings-leon-grill-3rd-stage-banashankari-bangalore-391899",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "46647",
+                "name": "Ayodhya Upachar",
+                "cloudinaryImageId": "74914b1ea91d2c6b1ddce5db6ce8759f",
+                "locality": "Kathriguppe",
+                "areaName": "Banashankari",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "South Indian",
+                    "North Indian",
+                    "Chinese",
+                    "Ice Cream",
+                    "Chaat"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "46647",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 6800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 6800
+                },
+                "parentId": "370539",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "33 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹399",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/ayodhya-upachar-kathriguppe-banashankari-bangalore-46647",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "121603",
+                "name": "Kannur Food Point",
+                "cloudinaryImageId": "bmwn4n4bn6n1tcpc8x2h",
+                "locality": "SG Palya",
+                "areaName": "Tavarekere",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Kerala",
+                    "Chinese"
+                ],
+                "avgRating": 3.9,
+                "feeDetails": {
+                    "restaurantId": "121603",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 6800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 6800
+                },
+                "parentId": "20974",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 6.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "33 mins",
+                    "lastMileTravelString": "6.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-05 02:50:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/kannur-food-point-sg-palya-tavarekere-bangalore-121603",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "47385",
+                "name": "Priyadarshini Grand",
+                "cloudinaryImageId": "c9elzh8awx7jcx70cood",
+                "locality": "Siddhaiah Puranik Road",
+                "areaName": "Basaveshwara Nagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "South Indian",
+                    "North Indian",
+                    "Chaat",
+                    "Chinese",
+                    "Beverages"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "47385",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 7400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 7400
+                },
+                "parentId": "9727",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 7.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "33 mins",
+                    "lastMileTravelString": "7.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/priyadarshini-grand-siddhaiah-puranik-road-basaveshwara-nagar-bangalore-47385",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "673680",
+                "name": "Pathaan Sir",
+                "cloudinaryImageId": "e47194b4d3817e9808892486ccb59cc3",
+                "locality": "Chamarajapete",
+                "areaName": "Jayanagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Snacks",
+                    "Fast Food",
+                    "North Indian"
+                ],
+                "avgRating": 3.2,
+                "feeDetails": {
+                    "restaurantId": "673680",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3800
+                },
+                "parentId": "708",
+                "avgRatingString": "3.2",
+                "totalRatingsString": "20+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "31 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/pathaan-sir-chamarajapete-jayanagar-bangalore-673680",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "417545",
+                "name": "LJ Iyengar Bakery",
+                "cloudinaryImageId": "udyo1ocblcdonikko8mi",
+                "locality": "Thyagaraja Nagar",
+                "areaName": "Basavanagudi",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Bakery"
+                ],
+                "avgRating": 3.9,
+                "feeDetails": {
+                    "restaurantId": "417545",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3800
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 3800
+                },
+                "parentId": "125675",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "26 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/lj-iyengar-bakery-thyagaraja-nagar-basavanagudi-bangalore-417545",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "info": {
+                "id": "271191",
+                "name": "Simpli Namdhari's",
+                "cloudinaryImageId": "32f9fa284fc566c11d473c4fd1e84818",
+                "locality": "1st Block",
+                "areaName": "Jaya Nagar",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Salads",
+                    "Italian",
+                    "Beverages",
+                    "Desserts"
+                ],
+                "avgRating": 4.2,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "271191",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 4500
+                },
+                "parentId": "21145",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "31 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-11-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ],
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {
+                "context": "seo-data-9fc6f7a6-30b8-4241-b3c0-1b9d4db4704f"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/simpli-namdharis-1st-block-jaya-nagar-bangalore-271191",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        }
+    ]
+}
